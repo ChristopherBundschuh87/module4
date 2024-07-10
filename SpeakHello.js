@@ -1,4 +1,4 @@
-//Say "Hello" function (for any name)
+// Say "Hello" function (for any name)
 
 (function (window) {
     
